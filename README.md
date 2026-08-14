@@ -2,7 +2,7 @@
 
 This repository contains the code and final research report for demographic forecasting in the Fermanagh area.
 
-📄 **[Click here to view the Full Project Report (PDF)](./FCT_Demographic_Forecasting_Report.pdf)**
+📄 **[Click here to view the Full Project Report (PDF)]([./FCT_Demographic_Forecasting_Report.pdf](https://github.com/stephen-glass/Fermanagh-Community-Transport---Demographic-Forecasting/blob/b62edb2acf2f24907d21c741ebc71389415d4a5d/FCT_Project.pdf))**
 
 ---
 
