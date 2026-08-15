@@ -33,5 +33,5 @@ The analysis provides a quantitative framework that can help FCT understand pote
 
 The full project report contains the detailed model development, assumptions, projections, uncertainty analysis and conclusions.
 
-**[View the full report](report/FCT_Project.pdf)**
+**[View the full report]FCT_Project.pdf)**
 
